@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#container{
+	border: 5px solid red;
+}
+#menubox{
+	border: 5px solid red;
+}
+#sa{
+	color: black;
+}
+.button{
+	color: blue;
+}
