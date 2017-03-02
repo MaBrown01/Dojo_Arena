@@ -5,9 +5,21 @@
 
 #container{
 	border: 5px solid red;
+	height: 700px;
+	width: 970px;
+	background-color: black;
+	border: 10px solid gray;
 }
 #menubox{
 	border: 5px solid red;
+	background-color: gray;
+	border: 10px solid  darkgray;
+	border-radius: 10px;
+	width: 350px;
+	margin: 250px 300px 300px 300px;
+
+
+
 }
 #sa{
 	color: black;
